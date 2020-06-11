@@ -1,0 +1,8 @@
+Paper:
+https://arxiv.org/pdf/1601.06759.pdf
+
+Implementation:
+https://github.com/israelg99/eva
+
+Details for Greyscale MNIST PixelCNN:
+https://israelg99.github.io/2017-02-27-Grayscale-PixelCNN-with-Keras/
