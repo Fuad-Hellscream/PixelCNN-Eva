@@ -15,3 +15,6 @@ https://github.com/keras-team/keras/issues/6098
 
 Replacing border_mode and dim_ordering:
 https://github.com/keras-team/keras/issues/6006
+
+Changing strides from integer to keyword:
+https://github.com/keras-team/keras/issues/10300
