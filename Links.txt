@@ -9,3 +9,9 @@ https://israelg99.github.io/2017-02-27-Grayscale-PixelCNN-with-Keras/
 
 Keras Conv2D Instructions:
 https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/
+
+Replacing self.W with self.kernel:
+https://github.com/keras-team/keras/issues/6098
+
+Replacing border_mode and dim_ordering:
+https://github.com/keras-team/keras/issues/6006
