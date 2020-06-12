@@ -9,6 +9,8 @@ https://israelg99.github.io/2017-02-27-Grayscale-PixelCNN-with-Keras/
 
 Keras Conv2D Instructions:
 https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D?hl=en
+https://www.geeksforgeeks.org/keras-conv2d-class/
 
 Replacing self.W with self.kernel:
 https://github.com/keras-team/keras/issues/6098
