@@ -1,0 +1,9 @@
+Link 1:	https://www.youtube.com/watch?v=JB8T_zN7ZC0 
+topic: Basic CNN, ReLU, Filtering, Pooling, Gradient decent, Error function, Back propagation
+
+
+Link 2:	https://deepai.org/machine-learning-glossary-and-terms/softmax-layer
+topic: softmax-layer
+
+
+
