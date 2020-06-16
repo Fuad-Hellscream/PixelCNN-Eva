@@ -1,9 +1,14 @@
 Link 1:	https://www.youtube.com/watch?v=JB8T_zN7ZC0 
 topic: Basic CNN, ReLU, Filtering, Pooling, Gradient decent, Error function, Back propagation
 
-
 Link 2:	https://deepai.org/machine-learning-glossary-and-terms/softmax-layer
 topic: softmax-layer
 
+Link 3: https://www.youtube.com/watch?v=JnnaDNNb380
+topic: unsupervised learning
 
+Link 3: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+topic: 	LSTM
 
+Link 3: https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+topic: variational-autoencoders(VAE)
